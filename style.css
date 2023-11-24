@@ -5,3 +5,7 @@ font-size: 10px;
 .cabecalho {background-color: antiquewhite(0, 0, 0); color: aliceblue (255, 255, 255);
 display: flex;
 justify-content: space-around; padding: 2% 24px;}
+.cabecalho-imagem{width: 5%;}
+.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+}
+
