@@ -6,6 +6,6 @@ font-size: 10px;
 display: flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-imagem{width: 5%;}
-.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+.cabecalho-lista-item{display: inline-block;margin: 0% 50px;
 }
 
